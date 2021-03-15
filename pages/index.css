@@ -1,0 +1,12 @@
+@import url(../vendor/normalize.css);
+@import url(../blocks/page/page.css);
+@import url(../blocks/header/header.css);
+@import url(../blocks/row-social/row-social.css);
+@import url(../blocks/row-social/_place/row-social_place_header.css);
+@import url(../blocks/row-social/_link/row-social_link.css);
+@import url(../blocks/row-social/_link/_theme/row-social_link_theme_dark.css);
+@import url(../blocks/row-social/_number/row-social_number.css);
+@import url(../blocks/row-social/_number/_theme/row-social_number_theme_dark.css);
+@import url(../blocks/row-social/_image/row-social_image.css);
+@import url(../blocks/header/__main-illustration/header__main-illustration.css);
+

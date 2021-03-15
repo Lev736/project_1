@@ -1,0 +1,11 @@
+.row-social_link{
+    margin-right: 10px;
+    font-size: 25px;
+    text-decoration: none;
+    color: #000;
+    transition: opacity 1s ease 0.2s;
+}
+
+.row-social_link:hover{
+    opacity: 0.6;
+}
