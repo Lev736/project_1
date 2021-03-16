@@ -1,4 +1,6 @@
 .header__main-illustration{
     width: 1600px;
     overflow: hidden;
+    box-shadow: 0 5px 10px #000;
+    margin-bottom: 3px;
 }

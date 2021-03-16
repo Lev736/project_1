@@ -1,0 +1,11 @@
+.row-info_link{
+    text-decoration: none;
+    margin-right: 15px;
+    color: #000;
+    font-size: 30px;
+    transition: opacity 1s ease 0.2s;
+}
+
+.row-info_link:hover{
+    opacity: 0.6;
+}
