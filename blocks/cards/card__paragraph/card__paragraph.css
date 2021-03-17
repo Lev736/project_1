@@ -1,0 +1,10 @@
+.card__paragraph{
+    width: 84%;
+    text-align: center;
+    margin: 16px auto 0;
+    font-size: 17px;
+}
+
+.card__paragraph:nth-of-type(2n){
+    margin: 0 auto 16px;
+}

@@ -1,5 +1,5 @@
 .row-info{
     display: flex;
     justify-content: space-between;
-    box-shadow: 0 0 40px rgb(85, 201, 135);
+    box-shadow: 0 0 40px #55C987;
 }

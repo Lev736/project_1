@@ -1,0 +1,9 @@
+.card__item{
+    width: 200px;
+    box-shadow: 0 0 5px #000;
+    list-style: none;
+}
+
+.card__item:hover{
+    box-shadow: 0 0 10px #000;
+}
