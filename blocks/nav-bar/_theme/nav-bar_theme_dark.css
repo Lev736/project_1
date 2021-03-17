@@ -1,0 +1,9 @@
+.nav-bar_theme_dark{
+    color: white;
+    border-right: 1px solid white;
+    padding-right: 30px;
+}
+
+.nav-bar_theme_dark:nth-of-type(5n){
+    border: none;
+}
