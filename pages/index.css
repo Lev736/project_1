@@ -8,9 +8,10 @@
 @import url(../blocks/row-social/_number/row-social_number.css);
 @import url(../blocks/row-social/_number/_theme/row-social_number_theme_dark.css);
 @import url(../blocks/row-social/_image/row-social_image.css);
+@import url(../blocks/row_info/row-info.css);
 @import url(../blocks/logo/logo.css);
-@import url(../blocks/row-info/row-info_full/row-info_full.css);
-@import url(../blocks/row-info/row-info.css);
+@import url(../blocks/nav-bar/nav-bar.css);
+@import url(../blocks/nav-bar/nav-bar_link/nav-bar_link.css);
 @import url(../blocks/link/link.css);
 @import url(../blocks/row-info/_place/row-info_place_header.css);
 @import url(../blocks/row-info/row-info_link/row-info_link.css);

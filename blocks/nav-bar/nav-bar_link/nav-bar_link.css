@@ -1,4 +1,4 @@
-.row-info_link{
+.nav-bar_link{
     text-decoration: none;
     margin-right: 15px;
     color: #000;
@@ -6,6 +6,6 @@
     transition: opacity 1s ease 0.2s;
 }
 
-.row-info_link:hover{
+.nav-bar_link:hover{
     opacity: 0.6;
 }
