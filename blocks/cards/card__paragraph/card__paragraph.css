@@ -3,6 +3,7 @@
     text-align: center;
     margin: 16px auto 0;
     font-size: 17px;
+    list-style: none;
 }
 
 .card__paragraph:nth-of-type(2n){

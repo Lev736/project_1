@@ -1,7 +1,7 @@
 .card__item{
     width: 200px;
+    height: 360px;
     box-shadow: 0 0 5px #000;
-    list-style: none;
 }
 
 .card__item:hover{
