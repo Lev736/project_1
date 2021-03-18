@@ -6,6 +6,9 @@
 @import url(../blocks/cards/cards.css);
 @import url(../blocks/cards/card__item/card__item.css);
 @import url(../blocks/cards/card__image/card__image.css);
+@import url(../blocks/cards/card__image/_height/card__image_height_s.css);
 @import url(../blocks/cards/card__paragraph/card__paragraph.css);
 @import url(../blocks/cards/card__paragraph/_font/card__paragraph_font_s.css);
+@import url(../blocks/cards/card__paragraph/_space/card__paragraph_space_bottom.css);
 @import url(../blocks/cards/card__link/card__link.css);
+
