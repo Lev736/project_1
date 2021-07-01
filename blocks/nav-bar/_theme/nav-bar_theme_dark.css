@@ -1,10 +1,19 @@
 .nav-bar_theme_dark{
     color: white;
-    border-right: 1px solid white;
-    padding-right: 30px;
-    margin-right: 30px;
+    border-right: 0.08vw solid white;
+    padding-right: 2.4vw;
+    margin-right: 2.4vw;
 }
 
 .nav-bar_theme_dark:nth-of-type(5n){
     border: none;
+}
+
+@media screen and (min-width: 1280px){
+    .nav-bar_theme_dark{
+        padding-right: 30px;
+        margin-right: 30px;
+        border-right: 0.08vw solid white;
+    }
+    
 }

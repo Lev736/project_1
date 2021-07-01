@@ -1,4 +1,12 @@
 .row-social_number{
-    margin-right: 10px;
-    font-size: 25px;
+    margin-right: 0.8vw;
+    font-size: 2vw;
+    white-space: nowrap;
+}
+
+@media screen and (min-width: 1280px) {
+    .row-social_number{
+        font-size: 25px;
+    }
+    
 }

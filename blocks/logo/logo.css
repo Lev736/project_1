@@ -1,5 +1,12 @@
 .logo{
-    width: 629px;
-    height: 94px;
+    width: 7.52vw;
+    height: 7.52vw;
+}
 
+@media screen and (min-width: 1280px){
+    .logo{
+        width: 94px;
+        height: 94px;
+    }
+    
 }

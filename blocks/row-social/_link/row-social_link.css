@@ -1,11 +1,19 @@
 .row-social_link{
-    margin-right: 10px;
-    font-size: 25px;
+    margin-right: 0.8vw;
+    font-size: 2vw;
     text-decoration: none;
     color: #000;
     transition: opacity 1s ease 0.2s;
+    white-space: nowrap;
 }
 
 .row-social_link:hover{
     opacity: 0.5;
+}
+
+@media screen and (min-width: 1280px) {
+    .row-social_link{
+        font-size: 25px;
+    }
+    
 }

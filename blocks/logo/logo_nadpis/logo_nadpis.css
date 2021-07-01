@@ -1,11 +1,11 @@
-.nav-bar{
-    display: flex;
-    align-items: center;
+.logo_nadpis{
+    width: 42vw;
     height: 7.52vw;
 }
 
 @media screen and (min-width: 1280px){
-    .nav-bar{
+    .logo_nadpis{
+        width: 525px;
         height: 94px;
     }
     
