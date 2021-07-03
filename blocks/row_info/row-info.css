@@ -3,3 +3,13 @@
     justify-content: space-between;
     box-shadow: 0 0 3.2vw #55C987;
 }
+
+@media screen and (max-width: 768px){
+    .row-info{
+        display: grid;
+        justify-content: center;
+        grid-template-areas: 'logo nadpis'
+                             'nav-bar nav-bar';
+    }
+    
+}

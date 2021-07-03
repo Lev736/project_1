@@ -2,7 +2,7 @@
     width: 128vw;
     overflow: hidden;
     box-shadow: 0 5px 10px #000;
-    margin-bottom: 0.24vw;
+    margin-bottom: 0.1vw;
 }
 
 @media screen and (min-width: 1280px){

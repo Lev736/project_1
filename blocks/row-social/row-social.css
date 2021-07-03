@@ -2,8 +2,5 @@
     display: flex;
     align-items: center;
     background-color: black;
-    min-height: 20px;
-    height: 8vw;
-    max-height: 60px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
